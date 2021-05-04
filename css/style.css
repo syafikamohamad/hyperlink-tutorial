@@ -1,0 +1,31 @@
+body
+	{
+		background-color: lightblue;
+	}
+
+a:link, a:visited
+	{
+		background-color: pink;
+		color: red;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: in line-block;
+		font-family: chopper;
+	}
+
+
+a:hover 
+	{
+		background-color: purple;
+		color:red;
+		text-decoration: underline;
+	}
+	
+a:active
+	{ 
+		background-color: yellow;
+		color: green;
+		text-decoration: underline;
+	}
+ 
